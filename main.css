@@ -1,0 +1,68 @@
+@font-face {
+	font-family: 'IBM Plex Sans Thai';
+	src: url('https://cdn.discordapp.com/attachments/737964308964704260/895167130792775710/IBMPlexSansThai-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'IBM Plex Sans Thai Bold';
+	src: url('https://cdn.discordapp.com/attachments/737964308964704260/895169500637454416/IBMPlexSansThai-Bold.ttf');
+}
+
+@font-face {
+	font-family: 'Cascadia Mono PL';
+	src: url('https://cdn.discordapp.com/attachments/737964308964704260/895169172659658772/CascadiaMonoPL.ttf');
+}
+
+::-webkit-input-placeholder,
+body,
+button,
+input,
+select,
+textarea,
+[class*="name"],
+[class*="title"],
+[class*="unread"],
+[class*="wrapper"],
+[class*="header"],
+[class*="inviteDestination"],
+[class*="membersGroup"],
+[class*="threadNameLine"],
+[class*="activityText"],
+[class*="aboutMeTitle"],
+[class*="username"],
+[class*="customStatusText"],
+[class*="aboutMeBody"],
+[class*="bodyTitle"],
+[class*="roleName"],
+[class*="note"],
+[class*="icon"],
+[class*="inputDefault"],
+[class*="item"],
+[class*="colorStandard"],
+[class*="contents"],
+[class*="text"],
+[class*="fakeActivityTitle"],
+[class*="fontDisplay"],
+[class*="heroBody"],
+[class*="marketingRefreshTitle"],
+[class*="marketingRefreshDescription"],
+[class*="billingInformation"],
+[class*="detailsBlock"],
+[class*="planInfo"],
+[class*="verticalFit"],
+[class*="codeRedemptionRedirect"],
+[class*="preview"],
+[class*="select"],
+[class*="children"],
+[class*="content"],
+[class*="layer"],
+[class*="select"] {
+	font-family: 'IBM Plex Sans Thai', Whitney, sans-serif;
+}
+
+.about,
+code,
+[class*="codeLine"],
+[class*="inlineCode"] {
+	font-family: 'Cascadia Mono PL', mono !important;
+}

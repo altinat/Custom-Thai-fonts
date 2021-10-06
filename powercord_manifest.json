@@ -1,0 +1,9 @@
+﻿{
+	"name": "Custom Thai fonts",
+	"description": "Custom fonts",
+	"version": "1.0.0",
+	"author": "Altinat#2203",
+	"theme": "main.css",
+	"consent": "false",
+	"license": "MIT"
+}
