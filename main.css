@@ -56,6 +56,7 @@ textarea,
 [class*="children"],
 [class*="content"],
 [class*="layer"],
+[class*="placeholder"],
 [class*="select"] {
 	font-family: 'IBM Plex Sans Thai', Whitney, sans-serif;
 }
